@@ -1,0 +1,16 @@
+@import "../../styles/variaveis";
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    background-color: $azul-rodape;
+    color: $cor-do-texto;
+    font-family: $fonte-normal;
+
+    div > img {
+        margin-right: 24px;
+        cursor: pointer;
+    }
+}

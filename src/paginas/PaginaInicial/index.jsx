@@ -2,6 +2,7 @@ import Cabecalho from "componentes/Cabecalho";
 import Galeria from "componentes/Galeria";
 import Menu from "componentes/Menu";
 import Populares from "componentes/Populares";
+import Rodape from "componentes/Rodape";
 
 import banner from "./banner.png";
 
@@ -24,6 +25,7 @@ export default function PaginaInicial() {
                     <Populares />
                 </div>
             </main>
+            <Rodape />
         </>
     )
 }
