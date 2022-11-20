@@ -2,7 +2,7 @@ import facebook from "./facebook.svg";
 import twitter from "./twitter.svg";
 import instagram from "./instagram.svg";
 
-import styles from "./Rodape.module.scss";
+import "./Rodape.module.scss";
 
 export default function Rodape() {
     return (
