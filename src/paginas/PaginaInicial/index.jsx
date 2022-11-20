@@ -1,7 +1,7 @@
-import Cabecalho from "../../componentes/Cabecalho";
-import Galeria from "../../componentes/Galeria";
-import Menu from "../../componentes/Menu";
-import Populares from "../../componentes/Populares";
+import Cabecalho from "componentes/Cabecalho";
+import Galeria from "componentes/Galeria";
+import Menu from "componentes/Menu";
+import Populares from "componentes/Populares";
 
 import banner from "./banner.png";
 

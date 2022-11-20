@@ -1,5 +1,3 @@
-import React from "react";
-
 import favorito from "../favorito.png";
 import open from "../open.png";
 
